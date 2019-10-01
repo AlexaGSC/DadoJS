@@ -1,0 +1,23 @@
+.padre{
+    width: 550px;
+    height: 350px;
+    margin: auto;
+    background: lightgrey;
+    display: flex;
+    justify-content: space-between;
+}
+
+#dado{
+    width: 170px;
+    height: 170px;
+    margin: auto;
+    background: white;
+    border-radius: 25px;
+    font-size: 15px;
+}
+
+#boton{
+    margin: auto;
+}
+
+/*# sourceMappingURL=/css.967bad95.css.map */

@@ -1,0 +1,11 @@
+{
+  "name": "javascript_dado",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "author": "Alexa",
+  "license": "ISC"
+}
